@@ -1,2 +1,8 @@
-# modernization-strategies
-A model for choosing the optimal modernization strategy for each subsystem
+# Modernization Strategies
+A model for choosing the optimal modernization strategy for each subsystem.
+
+![modernization-strategies](https://user-images.githubusercontent.com/692094/230796861-c8d2cd3b-aa75-4f02-a3ff-ba29e592b2f0.jpg)
+
+## Strategies
+
+- ???

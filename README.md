@@ -30,7 +30,7 @@ The X-axis represents the level of modernization applied to changing the behavio
 
 ## Example Strategies
 
-The following are some example strategies. This isn't an exhaustive list so don't feel a need to try and fit what you are doing exactly into one of these
+The following are some example strategies. This isn't an exhaustive list so don't feel a need to try and fit what you are doing exactly into one of these:
 
 - **Sunset**: The subsystem will be discontinued and shutdown (there is no modernization but this could still involve a large amount of effort and risk)
 - **Maintain**: Try to keep the current subsystem running for the least cost. There will still be some effort involved keeping the technologies upto date with the latest security patches etc

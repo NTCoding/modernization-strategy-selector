@@ -26,7 +26,7 @@ The X-axis represents the level of modernization applied to changing the behavio
 - **Polish**: Cleaning up some of the low hanging technical debt without addressing more fundamental issues
 - **Rewrite**: Rewrite the subsystem maintaining the existing functionality but cleaning up all the technical debt 
 - **Remodel**: Retaining the existing functionality but redesigning the domain model so that it is easier to maintain and evolve the code 
-- **Rethink**: The functionality and domain model is totally recreated from a blank canvas, typically involving large amounts of user research and domain modeling
+- **Rethink**: The functionality and domain model is totally recreated from a blank canvas, typically involving large amounts of user research and domain discovery & modelling
 
 ## Example Strategies
 

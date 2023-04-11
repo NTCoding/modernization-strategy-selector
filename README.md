@@ -1,5 +1,5 @@
 # Modernization Strategies
-A model for choosing the optimal modernization strategy for each subsystem. This allows a portfolio-based approach to modernization where the optimal ROI can be determined on a granular basis to achieve the optimal overall ROI of your modernization investment.
+A model for choosing the optimal modernization strategy for each subsystem. This allows a portfolio-based approach to modernization where the optimal ROI can be determined on a granular basis to achieve the optimal overall ROI of your modernization investment. It's crucial to avoid over-investing in areas that add unnecessary costs and slow down modernization in your critical strategic domains.
 
 Feel free to adapt this to your organization's specific needs. Pull requests accepted if you'd like to contribute improvements or share links to your content on this topic.
 

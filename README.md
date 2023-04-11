@@ -13,7 +13,7 @@ The Y-axis represents the level of modernization applied to the technologies use
 
 - **Infrastructure**: e.g. from on-prem to the cloud or from VMs to Serverless
 - **Programming language and runtime**: e.g. from C# .NET to Kotlin on the JVM
-- **Data storage and integration**: e.g. from Oracle SQL to a document DB and message bus
+- **Data storage and integration**: e.g. from Oracle SQL to a Mongo DB and Rabbit MQ
 - **Libraries and frameworks**: e.g. adopting new web frameworks, persistence frameworks, and testing frameworks
 
 A simple option for producing an overall score is to choose high (3 points), medium (2 points) or low (1 point) for each criteria above.

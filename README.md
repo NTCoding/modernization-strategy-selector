@@ -44,4 +44,4 @@ The following are some example strategies. This isn't an exhaustive list so don'
 
 ## Caveats
 - This model is a bit of an over-simplification in the assumption that effort, value, and risk all increase the further along each axis you move, e.g., sometimes a rewrite is less risky and less effort than making changes to the legacy
-- This model does not capture the risk of not modernizing a subystem, e.g., a subsystem might have security or scalability concerns that could become a problem if not addresses 
+- This model does not capture the risk of not modernizing a subsystem, e.g., a subsystem might have security or scalability concerns that could become a problem if not addressed 

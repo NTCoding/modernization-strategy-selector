@@ -41,3 +41,7 @@ The following are some example strategies. This isn't an exhaustive list so don'
 - **Lift and Reshape**: As above but cleaning up some parts of the code so that new features can be added more easily or it runs more reliably in production
 - **Rehost and Remodel**: Rebuild the system with a fresh domain model and deploy to more modern infrastructure, using largely the same programming languages and frameworks
 - **Total Modernization**: Every aspect of the technology, functionality, and domain model is completely modernized to the highest degree possible. Likely to be a very expensive option but justifiable for subsystems that are a major source of competitive advantage or innovation.
+
+## Caveats
+- This model is a bit of an over-simplification in the assumption that effort, value, and risk all increase the further along each axis you move, e.g., sometimes a rewrite is less risky and less effort than making changes to the legacy
+- This model does not capture the risk of not modernizing a subystem, e.g., a subsystem might have security or scalability concerns that could become a problem if not addresses 

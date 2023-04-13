@@ -25,7 +25,7 @@ The X-axis represents the level of modernization applied to changing the behavio
 - **Expose**: Making existing functionality from the legacy subsystem available to other subsystems (e.g. by creating an API or publishing an event), with the least amount of effort and invasive changes possible
 - **Polish**: Cleaning up some of the low hanging technical debt without addressing more fundamental issues
 - **Replicate**: Rewrite the subsystem maintaining the existing functionality but cleaning up all the technical debt 
-- **Remodel**: Rewrite the subystem maintaining existing functionality but investing in a complete redesig of the domain model so that it is easier to evolve 
+- **Remodel**: Rewrite the subsystem maintaining existing functionality but investing in a complete redesign of the domain model so that it is easier to evolve 
 - **Rethink**: The functionality and domain model is totally recreated from a blank canvas, typically involving large amounts of user research and domain discovery & modelling
 
 ## Example Strategies
